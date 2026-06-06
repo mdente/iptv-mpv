@@ -38,10 +38,10 @@ Funciona muito bem em ambientes sem interface gráfica pesada, como notebooks an
 
 ```m3u
 #EXTM3U
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band HD
+#EXTINF:-1 tvg-id="canalx.br" tvg-name="Canal X HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | CANALX",Canal X
 http://servidor.exemplo/live/usuario/senha/36990.ts
 
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT [4K]" tvg-logo="https://i.imgur.com/s99Fd0l.png" group-title="Canais | TNT",TNT [4K]
+#EXTINF:-1 tvg-id="canaly.br" tvg-name="Canal Y [4K]" tvg-logo="https://i.imgur.com/s99Fd0l.png" group-title="Canais | CANALY",CANAL Y [4K]
 http://servidor.exemplo/live/usuario/senha/215404.ts
 ```
 
